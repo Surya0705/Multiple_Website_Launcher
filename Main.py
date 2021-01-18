@@ -1,8 +1,10 @@
-import webbrowser
+import webbrowser # Importing the Webbrowser module for our Project.
 
-webbrowser.get().open('https://teams.microsoft.com/_?culture=en-in&country=IN&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn#/calendarv2')
-webbrowser.get().open('https://web.whatsapp.com/')
-webbrowser.get().open('https://www.youtube.com/')
-webbrowser.get().open('https://drive.google.com/drive/my-drive')
-webbrowser.get().open('https://colab.research.google.com/drive/1s2d1lwMaKGnM6KTEb2LU3NhxwDnmdqch')
-webbrowser.get().open('https://photos.google.com/')
+webbrowser.get().open('Website 1')
+webbrowser.get().open('Website 2')
+webbrowser.get().open('Website 3')
+webbrowser.get().open('Website 4')
+webbrowser.get().open('Website 5')
+webbrowser.get().open('Website 6')
+
+# You can add as many as these lines you want and can open any numbers of tabs at once.
